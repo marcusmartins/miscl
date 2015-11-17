@@ -1,5 +1,4 @@
 #!/bin/bash
--x
 
 COUNT=100
 PACKET_SIZE=10000
